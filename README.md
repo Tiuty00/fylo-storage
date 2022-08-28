@@ -25,11 +25,11 @@ Users should be able to:
 ### Screenshot
 
 Desktop-view
-<img src=https://github.com/Tiuty00/fylo-data-storage-component-master/blob/main/images/desktop-screenshot.png/>
+<img src=https://github.com/Tiuty00/fylo-storage/blob/main/images/desktop-screenshot.png/>
 
 
 Mobile-view
-<img src=https://github.com/Tiuty00/fylo-data-storage-component-master/blob/main/images/mobile-screenshot.png/ width="400"/>
+<img src=https://github.com/Tiuty00/fylo-storage/blob/main/images/mobile-screenshot.png/ width="400"/>
 
 
 ### Links
